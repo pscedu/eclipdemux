@@ -2,6 +2,7 @@
 demultiplex utility for eclip raw fastq files (process eclip barcodes and ramdomers)
 
 ## Installing on Bridges2
+Last Update: April 28, 2022
 
 ```
 module load anaconda3
